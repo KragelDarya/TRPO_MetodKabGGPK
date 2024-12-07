@@ -1,3 +1,12 @@
-Ссылка на сайт: https://metodkabggpk.blogspot.com/
-Данные для входа: email: metodkab1ggpk@gmail.com,
-		  пароль: metodKab345312
+Ссылка на сайт: 
+https://metodkabggpk.blogspot.com/
+
+Данные для входа: 
+email: metodkab1ggpk@gmail.com,
+пароль: metodKab345312
+
+Ссылка на UX-прототипы: 
+https://www.figma.com/design/3o5MaLtuGlmOXmalC8ElXy/UX_M
+
+Ссылка на UI-прототипы: 
+https://www.figma.com/design/6FPtGV3hBoc7cmfHhEule9/UI_M
